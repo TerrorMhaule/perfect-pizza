@@ -3,6 +3,9 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
+.Perfect_pizza{
+    text-align: center;
+}
 
 
 .pizza{
@@ -31,7 +34,7 @@ body {
 
 .Contact_us {
 background-color: #577590;
-
+text-align: center;
 
 }
 
